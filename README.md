@@ -18,3 +18,7 @@ cd "Duplicate domain"
 chmod +x domain.sh
 ./domain.sh permutation_file.txt
 ```
+## Other information
+
+- How to create bot in telegram: https://planetachatbot.com/como-crear-bot-para-telegram-y-darle-funcionalidad/
+- how look my id in telegram: https://www.it-swarm-es.com/es/telegram-bot/como-obtener-telegram-chat-id-para-un-usuario-especifico/1054796086/
