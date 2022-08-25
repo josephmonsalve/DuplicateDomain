@@ -15,6 +15,7 @@ Review if your domain have duplicates, when was be created and more.
 USE: 
 ```sh
 cd "Duplicate domain"
+sudo apt-get install scrot
 chmod +x domain.sh
 ./domain.sh permutation_file.txt
 ```
